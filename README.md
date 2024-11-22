@@ -34,4 +34,3 @@ This thing plays the mobile game "Monopoly Go!" non-stop by clicking on the Blue
 - https://github.com/ethanriverpage/monopolygobot
 
 #### SweeZ cuz he my bro fr 🥺
->>>>>>> master
